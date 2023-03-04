@@ -1,4 +1,4 @@
-# YT-Music-Downloader ![logo](https://seeklogo.com/images/Y/youtube-music-logo-25A2E71059-seeklogo.com.png)
+# YT-Music-Downloader&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;![logo](https://seeklogo.com/images/Y/youtube-music-logo-25A2E71059-seeklogo.com.png)
 Are you tired of skipping ads while listening to music on YT Music or YT? I have faced the same problem too. So, I have written a python script which lets you download youtube music to your pc. So no need to open YT for listening to your music. Your musics are saved on your PC.
 
 # Features
